@@ -1,4 +1,7 @@
-MathJax Plugin for DokuWiki
+# MathJax 3 Plugin for DokuWiki
+
+Forked from [liffiton/dokuwiki-plugin-mathjax: MathJax plugin for DokuWiki](https://github.com/liffiton/dokuwiki-plugin-mathjax).
+The original plugin uses MathJax 2 while this plugin uses MathJax 3.
 
 Enables MathJax parsing of TeX math expressions in wiki pages
 (See https://www.mathjax.org/)
@@ -14,7 +17,7 @@ Please refer to https://www.dokuwiki.org/plugins for additional info
 on how to install plugins in DokuWiki.
 
 ----
-Copyright (C) Mark Liffiton <liffiton@gmail.com>
+Copyright (C) [Haibin Zhang](mailto:zhb896579388@163.com)
 
 This program is free software; you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
